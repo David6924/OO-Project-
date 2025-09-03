@@ -36,7 +36,7 @@ Este projeto é um sistema de gerenciamento de recursos humanos (RH) desenvolvid
 2. **Execução:**  
    No terminal, navegue até a pasta do projeto e execute:
    ```sh
-   python encapsulation_exploration.py
+   python Projeto_de_OO.py
    ```
    Siga as instruções do menu interativo.
 
@@ -61,4 +61,4 @@ Este projeto é um sistema de gerenciamento de recursos humanos (RH) desenvolvid
 
 ---
 
-Desenvolvido por [Seu Nome]
+Desenvolvido por David Kelve Oliveira Barbosa
